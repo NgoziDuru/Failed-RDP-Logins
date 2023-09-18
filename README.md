@@ -1,4 +1,4 @@
-<h1>SIEM PROJECT -Azure Detection Lab</h1>
+<h1>SIEM PROJECT -Failed RDP Login</h1>
 
  ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -9,12 +9,12 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Technologies Used</h2>
 
-- <b>Azure Resources</b> 
-- <b>Sentinel,Log analyticsworkspace ,windows 10 machine,microsoft defender,</b>
+- <b>Power Shell,Azure Resources</b> 
+- <b>Sentinel,Log analyticsworkspace ,windows 10 machine,workbook,microsoft defender,</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 Virtual machine</b> (21H2)
+- <b>Windows 11 Virtual machine</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
